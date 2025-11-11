@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-##
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -20,7 +20,7 @@
   <img width="12" />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -29,9 +29,3 @@
   <img src="https://img.shields.io/static/v1?message=Fiver&logo=twitch&label=&color=5fd406&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-###
-
-
-###
